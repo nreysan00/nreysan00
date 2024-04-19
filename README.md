@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://th.bing.com/th?id=OIP.p-T2kW2MR9WKUtu6Ga8_oAHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="200"/>
   <h1 align="center"> Hi, I´m Natán Reyes👋 </h1>
-  <h3 align="center"> Im am a junior developer from Jaén, Spain. I have some basic knowledge of C and I´m learning Python right now. </h3>
+  <h3 align="center"> Im am a junior developer from Jaén, Spain. I have some basic knowledge of C and I´m learning Python at the moment. </h3>
 </div>
 
 ---
